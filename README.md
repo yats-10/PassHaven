@@ -2,7 +2,7 @@
 
 PassHaven is a comprehensive password management solution that securely stores and organizes website credentials, including usernames and passwords. It simplifies the login process, eliminating the need for users to remember credentials when revisiting specific websites and can store more than 100 credentials in the database.
 
-<!-- **Live-** [PassHaven](https://passwordop.netlify.app/) -->
+**Live-** [PassHaven](https://passwordhaven.netlify.app/)
 
 **Code-** [PassHaven](https://github.com/yats-10/PassHaven)
 
